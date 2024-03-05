@@ -1,0 +1,4 @@
+pillow
+opencv-python
+pytesseract
+python-dotenv
